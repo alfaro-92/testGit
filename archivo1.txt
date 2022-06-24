@@ -1,1 +1,3 @@
 primer mensaje
+
+modificacion post git ignore
